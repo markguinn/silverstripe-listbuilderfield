@@ -1,0 +1,18 @@
+{
+	"name": "markguinn/silverstripe-listbuilderfield",
+	"description": "Provides 'list builder' or 'dual lists' ux pattern as a form field for Silverstripe CMS.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "forms", "listbuilder", "dual lists"],
+	"license": "MIT",
+	"authors": [{
+		"name": "Mark Guinn",
+		"email": "mark@adaircreative.com",
+		"homepage": "http://github.com/markguinn"
+	}],
+	"extra": {
+		"installer-name": "listbuilderfield"
+	},
+	"require": {
+		"silverstripe/framework": "3.*"
+	}
+}
